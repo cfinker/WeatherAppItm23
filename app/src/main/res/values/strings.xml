@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherAppItm23</string>
+    <string name="search">Search</string>
+    <string name="location">Location</string>
+    <string name="locationPlaceholder">Kapfenberg</string>
+    <string name="icon_location">icon</string>
+</resources>
